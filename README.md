@@ -14,7 +14,6 @@ Developer who enjoys working with multiple programming languages.
 
 ![Sujoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujoylayek&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujoylayek&layout=compact&theme=dark)
 
 ## 📫 How to reach me
 
