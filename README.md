@@ -27,7 +27,6 @@ I am a 2nd-year B.Tech CSE student at NSHM Knowledge Campus (MAKAUT, WB), passio
 ### 🚀 Key Projects
 - **Tic-Tac-Toe AI:** A console game in C using the Minimax Algorithm (Unbeatable AI).
 - **Stacked Card Effect:** A frontend experiment with interactive CSS hover animations.
-- **Personal Portfolio:** A responsive portfolio website built with Python (Django) and MySQL.
 
 ---
 
