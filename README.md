@@ -25,10 +25,8 @@ I am a 2nd-year B.Tech CSE student at NSHM Knowledge Campus (MAKAUT, WB), passio
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sujoylayek2006&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sujoy's Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujoylayek2006&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Sujoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujoylayek2006&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujoylayek2006&layout=compact&theme=radical)
 
 ---
 
