@@ -5,15 +5,9 @@ I am a 2nd-year B.Tech CSE student at NSHM Knowledge Campus (MAKAUT, WB), passio
 
 - 🔭 I’m currently working on **Frontend Web Development** and **C Algorithms**.
 - 🌱 I’m currently learning **Cybersecurity** and **Artificial Intelligence**.
+- 👯 I’m looking to collaborate on open-source student projects.
 - 💬 Ask me about **C, Python, HTML/CSS, SQL, and Java**.
 - 📫 Reach me at: **sujoylayek.rampur.2006@gmail.com**
-
----
-
-### 🏆 Achievements
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujoylayek2006&theme=flat&no-frame=true&column=6" alt="sujoylayek2006" />
-</p>
 
 ---
 
@@ -27,6 +21,12 @@ I am a 2nd-year B.Tech CSE student at NSHM Knowledge Campus (MAKAUT, WB), passio
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
+
+---
+
+### 🚀 Key Projects
+- **Tic-Tac-Toe AI:** A console game in C using the Minimax Algorithm (Unbeatable AI).
+- **CSS Hover Effects:** A frontend experiment with interactive geometric shapes.
 
 ---
 
