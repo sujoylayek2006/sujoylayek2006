@@ -155,7 +155,7 @@
 
 **Cloud, DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=4"/>
 
 </div>
 
