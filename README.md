@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=I+build+clean+%2C+fast+%2C+and+purposeful+web+apps;2nd+Year+B.Tech+CSE+Student+%7C+Frontend+%2B+Full-Stack+Development;Learning+Cybersecurity+%26+Artificial+Intelligence;Open+to+student+collaborations" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=⚡+Full-Stack+Developer+%7C+B.Tech+2nd+Year;Open+to+collabs+%26+opportunities;☕+Powered+by+coffee+%2B+curiosity;Learning+Cybersecurity+%26+Artificial+Intelligence" />
 
 <br/><br/>
 
