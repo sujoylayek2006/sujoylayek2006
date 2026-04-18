@@ -58,10 +58,9 @@
   PROFILE
   ─────────────────────────────────────
   Name       :  Sujoy Layek
-  Username   :  sujoylayek2006
   Location   :  West Bengal, India
+  Degree     :  B.Tech - 2nd Year
   Role       :  Full-stack Developer
-  Education  :  2nd Year, B.Tech CSE
   Contact    :  sujoylayek.rampur.2006@gmail.com
 ```
 
@@ -71,11 +70,11 @@
 ```yaml
   RIGHT NOW
   ─────────────────────────────────────
-  Working   :  Frontend Web Development
+  Building  :  Frontend Web Development
   Learning  :  Cybersecurity · Artificial Intelligence
   Seeking   :  Open-source student projects
-  Stack     :  C · Python · HTML · CSS · JavaScript
-  Tools     :  Git · GitHub · VS Code · Canva · Figma
+  Stack     :  C · Java · Python · HTML · CSS · JavaScript
+  Fuel      :  Coffee × Curiosity
 ```
 
 </td>
