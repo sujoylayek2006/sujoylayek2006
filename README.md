@@ -111,7 +111,8 @@
 <a href="https://github.com/sujoylayek2006/stacked-card-hover-effect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sujoylayek2006&repo=stacked-card-hover-effect&theme=dark" alt="Stacked Card Hover Effect" /></a>
 <a href="https://github.com/sujoylayek2006/css-hover-effects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sujoylayek2006&repo=css-hover-effects&theme=dark" alt="CSS Hover Effects" /></a>
 </p>
-### Connect
+
+<h3>Connect</h3>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/sujoy-layek-566338330" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sujoy-layek" /></a>
