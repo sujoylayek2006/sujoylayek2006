@@ -106,10 +106,11 @@
 
 <h3>Recent Projects</h3>
 
-![Tic-Tac-Toe AI](https://img.shields.io/badge/Tic-Tac-Toe_AI-Unbeatable%20Minimax-a78bfa?style=for-the-badge&labelColor=0d0221)
-&nbsp;
-![Stacked Card Effect](https://img.shields.io/badge/Stacked_Card_Effect-Frontend%20Experiment-38bdf8?style=for-the-badge&labelColor=0d0221)
-
+<p align="center">
+<a href="https://github.com/sujoylayek2006/tic-tac-toe-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sujoylayek2006&repo=tic-tac-toe-game&theme=dark" alt="Tic Tac Toe Game" /></a>
+<a href="https://github.com/sujoylayek2006/stacked-card-hover-effect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sujoylayek2006&repo=stacked-card-hover-effect&theme=dark" alt="Stacked Card Hover Effect" /></a>
+<a href="https://github.com/sujoylayek2006/css-hover-effects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sujoylayek2006&repo=css-hover-effects&theme=dark" alt="CSS Hover Effects" /></a>
+</p>
 ### Connect
 
 <div align="center">
