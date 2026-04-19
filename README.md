@@ -188,6 +188,14 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujoylayek2006&bg_color=0d0221&color=a78bfa&line=a78bfa&point=f472b6&area=true&hide_border=true" width="100%"/>
 
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujoylayek2006&theme=tokyonight" height="165px"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujoylayek2006&theme=tokyonight" height="165px"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujoylayek2006&theme=tokyonight" height="165px"/>
+
 </div>
 
 <br/>
