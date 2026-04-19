@@ -186,7 +186,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujoylayek2006&bg_color=0d0221&color=a78bfa&line=a78bfa&point=f472b6&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujoylayek2006&bg_color=0d0221&color=a78bfa&line=a78bfa&point=f472b6&area=true&hide_border=true" width="96%"/>
 
 <br/><br/>
 
@@ -217,7 +217,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujoylayek2006/sujoylayek2006/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujoylayek2006/sujoylayek2006/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sujoylayek2006/sujoylayek2006/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sujoylayek2006/sujoylayek2006/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 </picture>
 
 </div>
