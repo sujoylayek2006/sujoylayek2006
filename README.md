@@ -113,7 +113,7 @@
 <h3>Connect</h3>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/sujoy-layek-566338330" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sujoy-layek" /></a>
+<a href="https://www.linkedin.com/in/sujoylayek2006" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sujoy-layek" /></a>
 <a href="mailto:sujoylayek.rampur.2006@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
 </div>
 
