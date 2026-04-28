@@ -61,7 +61,7 @@
   Name       :  Sujoy Layek
   Location   :  West Bengal, India
   Degree     :  B.Tech - 2nd Year
-  Role       :  Full-stack Developer
+  Role       :  MERN Stack Developer
   Contact    :  sujoylayek.rampur.2006@gmail.com
 ```
 
@@ -71,10 +71,10 @@
 ```yaml
   RIGHT NOW
   ─────────────────────────────────────
-  Building  :  Frontend Web Development
-  Learning  :  Cybersecurity · Artificial Intelligence
+  Building  :  Full-Stack Web Apps
+  Learning  :  Cybersecurity · AI
   Seeking   :  Open-source student projects
-  Stack     :  C · Java · Python · HTML · CSS · JavaScript
+  Stack     :  MERN . Java · Python · JavaScript
   Fuel      :  Coffee × Curiosity
 ```
 
@@ -103,13 +103,6 @@
 ![](https://img.shields.io/badge/Always%20Learning-fb923c?style=for-the-badge&labelColor=0d0221)
 
 <br/>
-
-<h3>Recent Projects</h3>
-
-<p align="center">
-<a href="https://github.com/sujoylayek2006/tic-tac-toe-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sujoylayek2006&repo=tic-tac-toe-game&theme=dark" alt="Tic Tac Toe Game" /></a>
-<a href="https://github.com/sujoylayek2006/stacked-card-hover-effect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sujoylayek2006&repo=stacked-card-hover-effect&theme=dark" alt="Stacked Card Hover Effect" /></a>
-</p>
 
 <h3>Connect</h3>
 
@@ -289,7 +282,7 @@
   Name       :  Sujoy Layek
   Location   :  West Bengal, India
   Degree     :  B.Tech - 2nd Year
-  Role       :  Full-stack Developer
+  Role       :  MERN Stack Developer
   Contact    :  sujoylayek.rampur.2006@gmail.com
 ```
 
@@ -299,10 +292,10 @@
 ```yaml
   RIGHT NOW
   ─────────────────────────────────────
-  Building  :  Frontend Web Development
-  Learning  :  Cybersecurity · Artificial Intelligence
+  Building  :  Full-Stack Web Apps
+  Learning  :  Cybersecurity · AI
   Seeking   :  Open-source student projects
-  Stack     :  C · Java · Python · HTML · CSS · JavaScript
+  Stack     :  MERN . Java · Python · JavaScript
   Fuel      :  Coffee × Curiosity
 ```
 
@@ -331,13 +324,6 @@
 ![](https://img.shields.io/badge/Always%20Learning-fb923c?style=for-the-badge&labelColor=0d0221)
 
 <br/>
-
-<h3>Recent Projects</h3>
-
-<p align="center">
-<a href="https://github.com/sujoylayek2006/tic-tac-toe-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sujoylayek2006&repo=tic-tac-toe-game&theme=dark" alt="Tic Tac Toe Game" /></a>
-<a href="https://github.com/sujoylayek2006/stacked-card-hover-effect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sujoylayek2006&repo=stacked-card-hover-effect&theme=dark" alt="Stacked Card Hover Effect" /></a>
-</p>
 
 <h3>Connect</h3>
 
