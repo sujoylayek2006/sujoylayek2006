@@ -60,7 +60,7 @@
   Name       :  Sujoy Layek
   Location   :  West Bengal, India
   Degree     :  B.Tech - 2nd Year
-  Role       :  Full-stack Developer
+  Role       :  Full-Stack Developer
   Contact    :  sujoylayek.rampur.2006@gmail.com
 ```
 
@@ -70,10 +70,10 @@
 ```yaml
   RIGHT NOW
   ─────────────────────────────────────
-  Building  :  Frontend Web Development
+  Building  :  Full-Stack Web Apps
   Learning  :  Cybersecurity · Artificial Intelligence
   Seeking   :  Open-source student projects
-  Stack     :  C · Java · Python · HTML · CSS · JavaScript
+  Stack     :  MERN . C · Java · Python · HTML · CSS · JavaScript
   Fuel      :  Coffee × Curiosity
 ```
 
