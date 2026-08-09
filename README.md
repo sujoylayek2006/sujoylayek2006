@@ -42,7 +42,7 @@
 
 # Sujoy Layek
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=a78bfa&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+B.Tech+2nd+Year;Building+real+products+from+scratch;Thinking+deeply+about+UX+before+writing+code;West+Bengal%2C+India" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=a78bfa&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+B.Tech+3rd+Year;Building+real+products+from+scratch;Thinking+deeply+about+UX+before+writing+code;West+Bengal%2C+India" />
 
 <br/>
 
