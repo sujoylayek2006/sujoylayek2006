@@ -59,7 +59,7 @@
   ─────────────────────────────────────
   Name       :  Sujoy Layek
   Location   :  West Bengal, India
-  Degree     :  B.Tech - 2nd Year
+  Degree     :  B.Tech - 3rd Year
   Role       :  Full-Stack Developer
   Contact    :  sujoylayek.rampur.2006@gmail.com
 ```
