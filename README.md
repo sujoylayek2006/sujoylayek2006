@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=⚡+Full-Stack+Developer+%7C+B.Tech+2nd+Year;Open+to+collabs+%26+opportunities;☕+Powered+by+coffee+%2B+curiosity;Learning+Cybersecurity+%26+Artificial+Intelligence" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=⚡+Full-Stack+Developer+%7C+B.Tech+3rd+Year;Open+to+collabs+%26+opportunities;☕+Powered+by+coffee+%2B+curiosity;Learning+Cybersecurity+%26+Artificial+Intelligence" />
 
 <br/><br/>
 
