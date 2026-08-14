@@ -168,9 +168,9 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujoylayek2006&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa&include_all_commits=true&count_private=true&rank_icon=github" height="170px" />
+<img src="https://github-stats-extended.vercel.app/api?username=sujoylayek2006&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa&include_all_commits=true&count_private=true&rank_icon=github" height="170px" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujoylayek2006&layout=compact&langs_count=6&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=ffffff" height="170px" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sujoylayek2006&layout=compact&langs_count=6&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=ffffff" height="170px" />
 
 <br/><br/>
 
