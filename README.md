@@ -137,13 +137,13 @@
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind&theme=dark&perline=5"/>
 
 <br/><br/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=1"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=2"/>
 
 <br/><br/>
 
