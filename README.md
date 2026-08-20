@@ -137,13 +137,13 @@
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap&theme=dark&perline=4"/>
 
 <br/><br/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=1"/>
 
 <br/><br/>
 
@@ -169,7 +169,7 @@
 
 <br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=sujoylayek2006&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
+<img src="https://github-stats-extended.vercel.app/api?username=sujoylayek2006&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa&include_all_commits=true&rank_icon=github" height="170" />
 &nbsp;&nbsp;
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sujoylayek2006&layout=compact&langs_count=6&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=ffffff" height="170" />
 
@@ -218,4 +218,3 @@
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:001233,40:0d1b4b,70:1a0533,100:0d0221&height=120&section=footer&animation=fadeIn"/>
-
