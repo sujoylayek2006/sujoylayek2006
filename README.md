@@ -194,7 +194,7 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                      FOOTER                              -->
+<!--                 CONTRIBUTION GRAPH                       -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=3"/>
@@ -212,6 +212,42 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujoylayek2006/sujoylayek2006/output/github-contribution-grid-snake.svg"/>
   <img alt="Sujoy's Contribution Grid Snake" src="https://raw.githubusercontent.com/sujoylayek2006/sujoylayek2006/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                      FOOTER                              -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0221&height=3"/>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Let's Connect & Collaborate!
+
+*Always open to discussions on interesting projects, tech collaborations, or open-source opportunities.*
+
+<br/>
+
+<a href="https://www.linkedin.com/in/sujoylayek2006" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:sujoylayek.rampur.2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+&nbsp;
+<a href="https://github.com/sujoylayek2006"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<a href="#sujoy-layek">
+  <img src="https://img.shields.io/badge/⬆_Back_to_Top-0d0221?style=for-the-badge&logoColor=a78bfa&color=a78bfa&labelColor=0d0221" alt="Back to Top"/>
+</a>
+
+<br/><br/>
+
+<sub>✨ Crafted with 💜 by **SUJOY LAYEK**</sub>
 
 </div>
 
