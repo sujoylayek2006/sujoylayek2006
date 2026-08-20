@@ -1,6 +1,6 @@
-﻿<!-- ═════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
 <!--                      HEADER                              -->
-<!-- ═════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0221,40:1a0533,70:0d1b4b,100:001233&height=200&section=header&text=SUJOY%20LAYEK&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20✦%20Builder&descSize=17&descColor=a78bfa&descAlignY=78"/>
 
@@ -70,11 +70,11 @@
 ```yaml
   RIGHT NOW
   ─────────────────────────────────────
-  Building  :  Full-Stack Web Apps
-  Learning  :  Cybersecurity · Artificial Intelligence
-  Seeking   :  Open-source student projects
-  Stack     :  MERN . C · Java · Python · HTML · CSS · JavaScript
-  Fuel      :  Coffee × Curiosity
+  Building   :  Full-Stack Web Apps
+  Learning   :  Cybersecurity · Artificial Intelligence
+  Seeking    :  Open-source student projects
+  Stack      :  MERN · C · Java · Python · HTML · CSS · JavaScript
+  Fuel       :  Coffee × Curiosity
 ```
 
 </td>
@@ -87,8 +87,8 @@
 
 <br/>
 
-**I build** things that live on the internet — clean, fast, and purposeful.
-**I think** deeply about UX before writing a single line of code.
+**I build** things that live on the internet — clean, fast, and purposeful.  
+**I think** deeply about UX before writing a single line of code.  
 **I believe** the best code reads like plain English.
 
 <br/>
@@ -106,7 +106,8 @@
 <h3>Connect</h3>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/sujoylayek2006" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sujoy-layek" /></a>
+<a href="https://www.linkedin.com/in/sujoylayek2006" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sujoy-layek" /></a>
+&nbsp;
 <a href="mailto:sujoylayek.rampur.2006@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
 </div>
 
@@ -130,25 +131,25 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,java,python,html,css,js&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css&theme=dark"/>
 
 <br/><br/>
 
-**Frameworks & Runtime**
+**Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=1"/>
-
-<br/><br/>
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=1"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind&theme=dark"/>
 
 <br/><br/>
 
-**Cloud, DevOps & Tools**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+
+<br/><br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
 
 </div>
 
@@ -168,14 +169,13 @@
 
 <br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=sujoylayek2006&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa&include_all_commits=true&count_private=true&rank_icon=github" height="170px" />
+<img src="https://github-stats-extended.vercel.app/api?username=sujoylayek2006&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sujoylayek2006&layout=compact&langs_count=6&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=ffffff" height="170px" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sujoylayek2006&layout=compact&langs_count=6&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=ffffff" height="170" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sujoylayek2006&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&sideNums=ffffff&currStreakNum=f472b6" width="70%"/>
-
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=sujoylayek2006&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&sideNums=ffffff&currStreakNum=f472b6" width="70%"/>
 
 <br/><br/>
 
@@ -183,11 +183,11 @@
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujoylayek2006&theme=tokyonight" height="165px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujoylayek2006&theme=tokyonight" height="165"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujoylayek2006&theme=tokyonight" height="165px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujoylayek2006&theme=tokyonight" height="165"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujoylayek2006&theme=tokyonight" height="165px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujoylayek2006&theme=tokyonight" height="165"/>
 
 </div>
 
@@ -195,7 +195,7 @@
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                      FOOTER                              -->
-<!-- ══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=3"/>
 
@@ -203,14 +203,14 @@
 
 <div align="center">
 
-## Contribution Snake
+## 🐍 Contribution Graph
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujoylayek2006/sujoylayek2006/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujoylayek2006/sujoylayek2006/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sujoylayek2006/sujoylayek2006/output/github-contribution-grid-snake-dark.svg" width="96%"/>
+  <img alt="Sujoy's Contribution Grid Snake" src="https://raw.githubusercontent.com/sujoylayek2006/sujoylayek2006/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
@@ -218,3 +218,4 @@
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:001233,40:0d1b4b,70:1a0533,100:0d0221&height=120&section=footer&animation=fadeIn"/>
+
