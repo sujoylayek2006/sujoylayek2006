@@ -32,21 +32,16 @@
 
 <div align="center">
 
-## Who Am I
+## 👨‍💻 Who Am I
 
 <br/>
 
-<img src="https://github.com/sujoylayek2006.png" width="150" style="border-radius:50%;"/>
+<img src="https://github.com/sujoylayek2006.png" width="140" style="border-radius:50%;"/>
 
 <br/><br/>
 
-# Sujoy Layek
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=a78bfa&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+B.Tech+3rd+Year;Building+real+products+from+scratch;Thinking+deeply+about+UX+before+writing+code;West+Bengal%2C+India" />
-
-<br/>
-
----
+### Sujoy Layek
+*Full-Stack Developer & B.Tech Student from West Bengal, India*
 
 <br/>
 
@@ -70,20 +65,16 @@
 ```yaml
   RIGHT NOW
   ─────────────────────────────────────
-  Building   :  Full-Stack Web Apps
+  Building   :  NGO Digital Connect (HackSpire 2026)
   Learning   :  Cybersecurity · Artificial Intelligence
-  Seeking    :  Open-source student projects
-  Stack      :  MERN · C · Java · Python · HTML · CSS · JavaScript
+  Seeking    :  Open-source collabs & Hackathons
+  Stack      :  MERN · TypeScript · C · Java · Python
   Fuel       :  Coffee × Curiosity
 ```
 
 </td>
 </tr>
 </table>
-
-<br/>
-
----
 
 <br/>
 
@@ -101,16 +92,6 @@
 &nbsp;
 ![](https://img.shields.io/badge/Always%20Learning-fb923c?style=for-the-badge&labelColor=0d0221)
 
-<br/>
-
-<h3>Connect</h3>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/sujoylayek2006" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sujoy-layek" /></a>
-&nbsp;
-<a href="mailto:sujoylayek.rampur.2006@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
-</div>
-
 </div>
 
 <br/>
@@ -125,31 +106,100 @@
 
 <div align="center">
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <br/>
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css&theme=dark"/>
 
 <br/><br/>
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,vite&theme=dark&perline=6"/>
 
 <br/><br/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=2"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark&perline=3"/>
 
 <br/><br/>
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                     HACKATHONS                           -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=3"/>
+
+<br/>
+
+<div align="center">
+
+## 🏆 Hackathons & Events
+
+<br/>
+
+### ⚡ HackSpire 2026
+**Project:** [NGO Digital Connect](https://github.com/StackAttack-Org/NGO-Digital-Connect) &nbsp;•&nbsp; **Team:** [StackAttack-Org](https://github.com/StackAttack-Org)
+
+<br/>
+
+<a href="https://ngo-digital-connect.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-ngo--digital--connect.vercel.app-2ea44f?style=for-the-badge" alt="Live Demo"/>
+</a>
+&nbsp;
+<a href="https://github.com/StackAttack-Org/NGO-Digital-Connect" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Repo-NGO--Digital--Connect-a78bfa?style=for-the-badge&logo=github&labelColor=0d0221" alt="GitHub Repo"/>
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,vite,nodejs,tailwind&theme=dark" alt="Tech Stack"/>
+
+<br/><br/>
+
+*An integrated, traceable platform connecting beneficiaries, accredited NGOs, donors, and volunteers in a transparent social impact lifecycle with AI-driven intake.*
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--               PROBLEM SOLVING & DSA                      -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0221&height=3"/>
+
+<br/>
+
+<div align="center">
+
+## 🧩 Problem Solving & Coding Profiles
+
+<br/>
+
+<a href="https://leetcode.com/u/sujoylayek2006/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/sujoylayek2006/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/sujoylayek_ramp1" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+</a>
 
 </div>
 
@@ -165,28 +215,30 @@
 
 <div align="center">
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=sujoylayek2006&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa&include_all_commits=true&rank_icon=github" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sujoylayek2006&layout=compact&langs_count=6&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=ffffff" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=sujoylayek2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&include_all_commits=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujoylayek2006&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=ffffff" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=sujoylayek2006&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&sideNums=ffffff&currStreakNum=f472b6" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=sujoylayek2006&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&sideNums=ffffff&currStreakNum=f472b6" width="75%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujoylayek2006&bg_color=0d0221&color=a78bfa&line=a78bfa&point=f472b6&area=true&hide_border=true" width="96%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujoylayek2006&theme=tokyonight" width="95%"/>
 
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujoylayek2006&theme=tokyonight" height="165"/>
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujoylayek2006&theme=tokyonight" height="165"/>
-&nbsp;
+
+<br/><br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujoylayek2006&theme=tokyonight" height="165"/>
 
 </div>
@@ -197,7 +249,7 @@
 <!--                 CONTRIBUTION GRAPH                       -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0221&height=3"/>
 
 <br/>
 
@@ -221,7 +273,7 @@
 <!--                      FOOTER                              -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0221&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=3"/>
 
 <br/>
 
