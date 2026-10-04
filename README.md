@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sujoylayek2006&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=sujoylayek2006&label=PROFILE%20VIEWS&labelColor=0d0221&countColor=a78bfa&style=for-the-badge"/>
 &nbsp;
 <a href="https://github.com/sujoylayek2006"><img src="https://img.shields.io/github/followers/sujoylayek2006?style=for-the-badge&color=a78bfa&labelColor=0d0221&label=FOLLOWERS"/></a>
 &nbsp;
