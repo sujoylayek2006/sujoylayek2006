@@ -200,6 +200,10 @@
 <a href="https://www.hackerrank.com/profile/sujoylayek_ramp1" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
 </a>
+&nbsp;
+<a href="https://tryhackme.com/p/sujoylayek2006" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-A8332A?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+</a>
 
 </div>
 
@@ -219,27 +223,23 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujoylayek2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=sujoylayek2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true&cache_seconds=1800" width="48%" alt="Sujoy's GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujoylayek2006&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujoylayek2006&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=ffffff&cache_seconds=1800" width="48%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=sujoylayek2006&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&sideNums=ffffff&currStreakNum=f472b6" width="75%"/>
+<img src="https://streak-stats.demolab.com/?user=sujoylayek2006&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&sideNums=ffffff&currStreakNum=f472b6" width="98%" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujoylayek2006&theme=tokyonight" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujoylayek2006&theme=tokyonight" width="98%" alt="Profile Details"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujoylayek2006&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujoylayek2006&theme=tokyonight" width="48%" alt="Repos Per Language"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujoylayek2006&theme=tokyonight" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujoylayek2006&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujoylayek2006&theme=tokyonight" width="48%" alt="Most Commit Language"/>
 
 </div>
 
